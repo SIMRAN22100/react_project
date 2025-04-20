@@ -1,1 +1,1 @@
-# react_project
+# quiz_project
